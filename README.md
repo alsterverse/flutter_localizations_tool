@@ -7,7 +7,7 @@ Call in a terminal inside the project root directory. If the l10n.yaml file has 
 
 Install under `dev_dependencies`
 ```yaml
-localization_tool:
+flutter_localizations_tool:
   git:
     url: https://github.com/alsterverse/flutter_localizations_tool
 ```
