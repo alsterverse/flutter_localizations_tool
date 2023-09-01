@@ -1,0 +1,15 @@
+name: flutter_localizations_tool
+description: A tool used with flutter_localization package to add missing strings and sort them according to the template arb file.
+version: 1.0.0
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  yaml: ^3.0.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0

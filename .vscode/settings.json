@@ -1,0 +1,6 @@
+{
+    "dart.lineLength": 120,
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
+}
